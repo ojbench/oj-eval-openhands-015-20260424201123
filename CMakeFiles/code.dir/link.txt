@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/code.dir/code.cpp.o -o code 

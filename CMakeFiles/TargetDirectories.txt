@@ -1,3 +1,0 @@
-/workspace/problem_015/CMakeFiles/code.dir
-/workspace/problem_015/CMakeFiles/edit_cache.dir
-/workspace/problem_015/CMakeFiles/rebuild_cache.dir
